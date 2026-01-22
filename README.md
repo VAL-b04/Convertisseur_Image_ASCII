@@ -1,6 +1,6 @@
 # Convertisseur d'image en ASCII
 
-Un projet Java permettant de convertir des séquences d'images (frames vidéo) en animations ASCII art affichées directement dans le terminal. Ce projet a été influencé par les idées d'[Adam Bajic](https://github.com/AdamBa-25)
+Un projet Java permettant de convertir des séquences d'images (frames vidéo) en animations ASCII art affichées directement dans le terminal. Ce projet a été influencé par les idées d'[**Adam Bajic**](https://github.com/AdamBa-25)
 
 ## Description
 

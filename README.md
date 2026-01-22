@@ -1,6 +1,6 @@
 # Convertisseur d'image en ASCII
 
-Un projet Java permettant de convertir des séquences d'images (frames vidéo) en animations ASCII art affichées directement dans le terminal.
+Un projet Java permettant de convertir des séquences d'images (frames vidéo) en animations ASCII art affichées directement dans le terminal. Ce projet a été influencé par les idées d'[Adam Bajic](https://github.com/AdamBa-25)
 
 ## Description
 
@@ -10,18 +10,18 @@ Le principe est simple : chaque pixel est analysé selon sa luminosité (niveau 
 
 ## Fonctionnalités
 
-- ✅ Conversion d'images PNG en ASCII art
-- ✅ Animation de séquences d'images dans le terminal
-- ✅ Redimensionnement automatique selon la taille du terminal
-- ✅ Contrôle de la vitesse d'animation (FPS personnalisable)
-- ✅ Option de skip de frames pour accélérer le rendu
-- ✅ Conversion en niveaux de gris avec mapping vers 5 caractères différents
+- Conversion d'images PNG en ASCII art
+- Animation de séquences d'images dans le terminal
+- Redimensionnement automatique selon la taille du terminal
+- Contrôle de la vitesse d'animation (FPS personnalisable)
+- Option de skip de frames pour accélérer le rendu
+- Conversion en niveaux de gris avec mapping vers 5 caractères différents
 
 ## Installation
 
 1. Clonez le dépôt :
 ```bash
-git clone https://github.com/VAL-b04/Convertisseur_Image_ASCII.git
+git clone https://github.com/VAL-b04/Convertisseur_Image_ASCII
 cd Convertisseur_Image_ASCII
 ```
 

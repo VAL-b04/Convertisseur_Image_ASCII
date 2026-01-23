@@ -1,12 +1,12 @@
 # Convertisseur d'image en ASCII
 
-Un projet Java permettant de convertir des séquences d'images (frames vidéo) en animations ASCII art affichées directement dans le terminal. Ce projet a été influencé par les idées d'[**Adam Bajic**](https://github.com/AdamBa-25)
+Un projet Java permettant de convertir des séquences d'images (frames vidéo) en animations ASCII art affichées directement dans le terminal. Ce projet a été influencé par [**Adam Bajic**](https://github.com/AdamBa-25)
 
 ## Description
 
 Ce projet reprend les bases du [**Brouillimg**](https://github.com/VAL-b04/Brouillimg), un ancien projet de cryptage/décryptage d'images. Le convertisseur utilise la conversion en niveaux de gris (valeurs 0-255) pour transformer chaque pixel en caractère ASCII, créant ainsi une représentation textuelle animée de votre vidéo.
 
-Le principe est simple : chaque pixel est analysé selon sa luminosité (niveau de gris) et converti en caractère correspondant, du plus sombre (`8`) au plus clair (espace), permettant de recréer l'image dans le terminal.
+Le principe est simple, chaque pixel est analysé selon sa luminosité (niveau de gris) et converti en caractère correspondant, du plus sombre (`8`) au plus clair (espace), permettant de recréer l'image dans le terminal.
 
 ## Fonctionnalités
 
@@ -88,13 +88,13 @@ Le programme vous demandera successivement :
    30-60 FPS pour accéléré
    ```
 
-### Exemple d'exécution
+### Exemple d'exécution avec la vidéo Bad Apple
 
 ```
 Dossier des frames : frames
-Nombre de frames : 120
+Nombre de frames : 6390
 Prendre 1 frame toutes les X frames (1 = toutes, 2 = une sur deux, etc.) : 2
-Prefixe des fichiers (ex: scene, frame, img) : frame
+Prefixe des fichiers (ex: scene, frame, img) : scene
 FPS pour la lecture (recommande: 24) : 24
 Taille du terminal : 100x40
 Appuyez sur Entree pour commencer...
